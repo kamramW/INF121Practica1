@@ -1,7 +1,7 @@
 public class ClaseEstadistica {
     private double[] datos;
 
-    // constructor
+    // constructorrr
     public ClaseEstadistica(double[] datos) {
         this.datos = datos;
     }
