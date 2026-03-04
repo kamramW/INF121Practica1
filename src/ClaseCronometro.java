@@ -6,7 +6,7 @@ public class ClaseCronometro {
 
     //  Constructor sin argumentos
     public ClaseCronometro() {
-        // Se inicializa con la hora actual en milisegundos
+        // Se inicializa con la hora actual en ms
         this.inicia = System.currentTimeMillis();
     }
 
